@@ -1,0 +1,87 @@
+/* 
+Theme name: Pendulum_Store
+Version: 1.0
+Description: Tienda OnLine de accesorios
+Author: Daniel Fabiani
+Author URI: https://github.com/danielfabiani/
+License: GNU General Public License v2 or laters
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.main-img {
+    width: 250px;
+}
+
+a,h1,h2,h3,h4,li,p,span,ul{
+    font-family:Montserrat
+}
+
+a{
+    text-decoration: none;
+    color: #0B0C0D
+}
+
+a:hover{
+    color:#73532D;
+}
+
+.attachment-large{
+    max-width:100%;
+    height:auto!important;
+}
+h1{
+    margin:50px 0;font-weight: 800;
+}  
+ul{
+    margin-bottom: 0px;
+}
+header{
+    position: sticky;
+    top: 0;
+    background-color: rgba(115, 83, 45, 0.5);
+}
+header nav li{
+    list-style:none;
+    display:inline-block;
+    padding:0 10px;
+}
+header nav li a{
+    color:#0B0C0D;
+    text-transform:uppercase;
+    text-decoration: none;
+}
+header nav li a:hover{
+    color:#73532D;
+}
+footer{
+    width: 100%;
+    background-color: #402401;
+    padding:10px 0;
+    position: relative;
+    bottom: 0;
+}
+footer{
+    color:white
+}
+footer p{
+    margin:0;color:#fff
+}
+.lista-productos h2{
+    font-weight:900
+}
+.lista-productos h4{
+    font-weight:400
+}
+.lista-productos h4 a{
+    color: #0B0C0D;
+}
+
+.img_404 {
+    width: 500px;
+}
+
+.next-post{
+    display: flex;
+    justify-content: flex-end;
+}
+

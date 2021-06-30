@@ -1,0 +1,85 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 30 de April de 2021 23:40
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.0
+WORDPRESS:	5.7.1
+PHP INFO:	8.0.3 | SAPI: apache2handler
+SERVER:		Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/8.0.3 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 14MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20210430_bienestarpendulum_cacccfe4a4b0e6793541_20210430233941_database.sql
+SQL FILE SIZE: 833.58KB (853586)
+SQL FILE TIME: 2021-04-30 23:40:26
+SQL RUNTIME: 2.89 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/pendulum_store
+ARCHIVE FILE: 20210430_bienestarpendulum_cacccfe4a4b0e6793541_20210430233941_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	73.64MB
+STATS:	Dirs 419 | Files 2,995
+SQL ADDED: 20210430_bienestarpendulum_cacccfe4a4b0e6793541_20210430233941_database.sql
+ZipArchive Object
+(
+    [lastId] => 3413
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3414
+    [filename] => C:\xampp\htdocs\pendulum_store\wp-content\backups-dup-lite\tmp\20210430_bienestarpendulum_cacccfe4a4b0e6793541_20210430233941_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 3413
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 28.11MB
+ARCHIVE RUNTIME: 47.93 sec.
+MEMORY STACK: 14MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/pendulum_store/wp-content/backups-dup-lite/tmp/20210430_bienestarpendulum_cacccfe4a4b0e6793541_20210430233941_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 833.58KB
+INSTALLER FILE: 63.96KB
+ARCHIVE FILE: 29.62MB 
+RECUENTO ARCHIVOS/DIRECTORIOS ESPERADOS: 3,414
+RECUENTO ARCHIVOS/DIRECTORIOS ACTUALES: 3,413
+PRUEBA DE CONSISTENCIA DEL ARCHIVO: Superado
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 51.83 sec.
+PEAK PHP MEMORY USED: 14MB
+DONE PROCESSING => 20210430_bienestarpendulum 30 de April de 2021 23:41
+
